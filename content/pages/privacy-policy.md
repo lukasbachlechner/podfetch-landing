@@ -1,8 +1,6 @@
 ---
 title: Privacy Policy
 ---
-<section>
-
 ## Privacy Policy
 
 We have written this privacy policy (version 01.01.1970-121657019) to provide you with information in accordance with the requirements of the [General Data Protection Regulation (EU) 2016/679](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex%3A32016R0679&%3Btid=%5Badsimpletextid]) as well as to explain what information we collect, how we use data and what choices you have as a visitor to this website.
@@ -366,5 +364,3 @@ If you generally do not want to allow any cookies, you can set up your browser i
 MailChimp is an active participant in the EU-U.S. Privacy Shield Framework, which regulates the correct and secure transfer of personal data. You can find more information on this at [https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG&tid=121657019](https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG). You can find more information on MailChimp’s use of cookies at [https://mailchimp.com/legal/cookies/](https://mailchimp.com/legal/cookies/), and you can learn more about data protection at MailChimp (Privacy) at [https://mailchimp.com/legal/privacy/](https://mailchimp.com/legal/privacy/).
 
 Source: Created with the Datenschutz Generator by [AdSimple® Linkbuilding](https://www.adsimple.at/linkbuilding-backlinkaufbau/ "AdSimple® Linkbuilding")
-
-</section>
