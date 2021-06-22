@@ -59,16 +59,16 @@ What exact cookies we use, depends on the used services. We will explain this in
 
 There are 4 different types of cookies:
 
-**Essential Cookies**
+*   **Essential Cookies**
 These cookies are necessary to ensure the basic function of a website. They are needed when a user for example puts a product into their shopping cart, then continues surfing on different websites and comes back later in order to proceed to the checkout. Even when the user closed their window priorly, these cookies ensure that the shopping cart does not get deleted.
 
-**Purposive Cookies**
+*   *Purposive Cookies**
 These cookies collect info about the user behaviour and record if the user potentially receives any error messages. Furthermore, these cookies record the website’s loading time as well as its behaviour within different browsers.
 
-**Target-orientated Cookies**
+*   **Target-orientated Cookies**
 These cookies care for an improved user-friendliness. Thus, information such as previously entered locations, fonts or data in forms stay saved.
 
-**Advertising Cookies**
+*   **Advertising Cookies**
 These cookies are also known as targeting-Cookies. They serve the purpose of delivering individually adapted advertisements to the user. This can be very practical, but also rather annoying.
 
 Upon your first visit to a website you are usually asked which of these cookie-types you want to accept. Furthermore, this decision will of course also be saved in a cookie.
@@ -312,22 +312,22 @@ Moreover, MailChimp are allowed to use this data for improving their own service
 
 The following cookies can be set by MailChimp. The list is not exhaustive and is merely an exemplary selection:
 
-**Name**: AVESTA_ENVIRONMENT  
+**Name:** AVESTA_ENVIRONMENT  
 **Value:** Prod  
 **Purpose:** This cookie is necessary to provide the services of Mailchimp. It is always set when a user registers for a newsletter mailing list.  
 **Expiry date:** at the end of the session
 
-**Name**: ak_bmsc  
+**Name:** ak_bmsc  
 **Value:** F1766FA98C9BB9DE4A39F70A9E5EEAB55F6517348A7000001121657019-3  
 **Purpose:** The cookie is used to differentiate a human from a bot. That way secure reports on the use of a website can be created.  
 **Expiry date:** after 2 hours
 
-**Name**: bm_sv  
+**Name:** bm_sv  
 **Value:** A5A322305B4401C2451FC22FFF547486~FEsKGvX8eovCwTeFTzb8//I3ak2Au…  
 **Purpose:** This cookie comes from MasterPass Digital Wallet (a MasterCard service) and is used to offer a secure and easy virtual payment process to visitors. For this purpose, the user is anonymously identified on the website.  
 **Expiry date:** after 2 hours
 
-**Name**: _abck  
+**Name:** _abck  
 **Value:** 8D545C8CCA4C3A50579014C449B045121657019-9  
 **Purpose:** We could not find any further information about the purpose of this cookie.  
 **Expiry date:** after one year
