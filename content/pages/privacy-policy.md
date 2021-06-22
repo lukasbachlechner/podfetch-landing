@@ -61,7 +61,7 @@ There are 4 different types of cookies:
 
 *   **Essential Cookies:** These cookies are necessary to ensure the basic function of a website. They are needed when a user for example puts a product into their shopping cart, then continues surfing on different websites and comes back later in order to proceed to the checkout. Even when the user closed their window priorly, these cookies ensure that the shopping cart does not get deleted.
 
-*   *Purposive Cookies:** These cookies collect info about the user behaviour and record if the user potentially receives any error messages. Furthermore, these cookies record the website’s loading time as well as its behaviour within different browsers.
+*   **Purposive Cookies:** These cookies collect info about the user behaviour and record if the user potentially receives any error messages. Furthermore, these cookies record the website’s loading time as well as its behaviour within different browsers.
 
 *   **Target-orientated Cookies:** These cookies care for an improved user-friendliness. Thus, information such as previously entered locations, fonts or data in forms stay saved.
 
