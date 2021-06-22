@@ -27,14 +27,18 @@
 
 <script>
 export default {
+  async fetch({ $content }) {
+    const data = await $content('pages', 'legal-disclosure').fetch();
+    console.log(data);
+  },
   head() {
     return {
       script: [
         { src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' },
       ],
-    }
+    };
   },
-}
+};
 </script>
 
 <style>
