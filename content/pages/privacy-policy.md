@@ -181,7 +181,7 @@ The following cookies are used by Google Analytics:
 **Expiration date:** After 30 seconds up to one year
 
 **Name:** __utma  
-**Value:**1564498958.1564498958.1564498958.1  
+**Value:** 1564498958.1564498958.1564498958.1  
 **Purpose:** With this cookie your behaviour on the website can be tracked and the site performance can be measured. The cookie is updated every time the information is sent to Google Analytics.  
 **Expiration date:** After 2 years
 
@@ -191,7 +191,7 @@ The following cookies are used by Google Analytics:
 **Expiration date:** Afer 10 minutes
 
 **Name:** __utmb  
-**Value:**3.10.1564498958  
+**Value:** 3.10.1564498958  
 **Purpose:** This cookie is used to determine new sessions. It is updated every time new data or information gets sent to Google Analytics.  
 **Expiration date:** After 30 minutes
 
