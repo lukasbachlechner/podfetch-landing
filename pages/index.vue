@@ -5,18 +5,18 @@
       <h1 class="title">podfetch-landing</h1>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          rel="noopener noreferrer"
           class="button--green"
+          href="https://nuxtjs.org/"
+          rel="noopener noreferrer"
+          target="_blank"
         >
           Documentation
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          rel="noopener noreferrer"
           class="button--grey"
+          href="https://github.com/nuxt/nuxt.js"
+          rel="noopener noreferrer"
+          target="_blank"
         >
           GitHub
         </a>
@@ -26,7 +26,15 @@
 </template>
 
 <script>
-export default {}
+export default {
+  head() {
+    return {
+      script: [
+        { src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' },
+      ],
+    }
+  },
+}
 </script>
 
 <style>
