@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 ---
-<section class="section">
+<section>
 
 ## Privacy Policy
 
