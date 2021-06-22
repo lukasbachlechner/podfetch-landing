@@ -1,19 +1,17 @@
 <template>
-  <div>
-    <landing-hero />
-    <landing-features />
-    <landing-glimpse />
+  <div class="container">
+    <nuxt-content :document="legal" />
   </div>
 </template>
 
 <script>
 export default {
-  head() {
-    return {
-      script: [
-        { src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' },
-      ],
-    };
+  data: () => ({
+    legal: null,
+    privacy: null,
+  }),
+  async fetch() {
+    this.legal = await this.$content('pages', 'legal-disclosure').fetch();
   },
 };
 </script>

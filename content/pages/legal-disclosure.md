@@ -9,8 +9,8 @@ Information in accordance with §5 of the E-Commerce Act, §14 of the Unternehme
 
 Lukas Bachlechner
 
-Peheimweg 2,  
-9905 Gaimberg,  
+Hirschengasse 4/11,  
+1060 Wien,  
 Österreich
 
 **Phone:** +43 664 505 89 29  

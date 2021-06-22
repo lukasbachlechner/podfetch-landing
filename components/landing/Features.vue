@@ -3,14 +3,14 @@
     <h2 class="h2">Features</h2>
 
     <ul class="features__list">
-      <pages-landing-feature-item
+      <landing-feature-item
         v-for="(feature, i) in features"
         :key="i"
         :icon="feature.icon"
         :title="feature.title"
       >
         {{ feature.content }}
-      </pages-landing-feature-item>
+      </landing-feature-item>
     </ul>
   </section>
 </template>
