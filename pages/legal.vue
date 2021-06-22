@@ -1,6 +1,7 @@
 <template>
   <div class="container">
     <nuxt-content :document="legal" />
+    <nuxt-content :document="privacy" />
   </div>
 </template>
 
@@ -12,6 +13,7 @@ export default {
   }),
   async fetch() {
     this.legal = await this.$content('pages', 'legal-disclosure').fetch();
+    this.privacy = await this.$content('pages', 'privacy-policy').fetch();
   },
 };
 </script>
