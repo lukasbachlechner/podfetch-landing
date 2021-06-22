@@ -5,7 +5,7 @@ title: Privacy Policy
 
 We have written this privacy policy (version 01.01.1970-121657019) to provide you with information in accordance with the requirements of the [General Data Protection Regulation (EU) 2016/679](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex%3A32016R0679&%3Btid=%5Badsimpletextid]) as well as to explain what information we collect, how we use data and what choices you have as a visitor to this website.
 
-Privacy policies usually sound very technical. However, this version should describe the most important things as simply and clearly as possible. Moreover, technical terms are explained in a reader-friendly manner whenever possible. We would also like to convey that we only collect and use information via this website if there is a corresponding legal basis for it. This is certainly not possible if you give very brief technical explanations, as are often standard on the Internet when it comes to data protection. We hope you find the following explanations interesting and informative. Maybe you will also find some information that you did not know yet.  
+Privacy policies usually sound very technical. However, this version should describe the most important things as simply and clearly as possible. Moreover, technical terms are explained in a reader-friendly manner whenever possible. We would also like to convey that we only collect and use information via this website if there is a corresponding legal basis for it. This is certainly not possible if you give very brief technical explanations, as are often standard on the Internet when it comes to data protection. We hope you find the following explanations interesting and informative. Maybe you will also find some information that you did not know yet.\
 Should you still have questions, we kindly ask you to follow the existing links to see further information on third-party websites, or to simply write us an email. You can find our contact information in our website’s imprint.
 
 ### Automatic Data Retention
@@ -14,12 +14,12 @@ Every time you visit a website nowadays, certain information is automatically cr
 
 Whenever you visit our website such as you are doing right now, our webserver (computer on which this website is saved/stored) automatically saves data such as
 
-*   the address (URL) of the accessed website
-*   browser and browser version
-*   the used operating system
-*   the address (URL) of the previously visited site (referrer URL)
-*   the host name and the IP-address of the device the website is accessed from
-*   date and time
+* the address (URL) of the accessed website
+* browser and browser version
+* the used operating system
+* the address (URL) of the previously visited site (referrer URL)
+* the host name and the IP-address of the device the website is accessed from
+* date and time
 
 in files (webserver-logfiles).
 
@@ -27,7 +27,7 @@ Generally, webserver-logfiles stay saved for two weeks and then get deleted auto
 
 ### Cookies
 
-Our website uses HTTP-cookies to store user-specific data.  
+Our website uses HTTP-cookies to store user-specific data.\
 For your better understanding of the following Privacy Policy statement, we will explain to you below what cookies are and why they are in use.
 
 #### What exactly are cookies?
@@ -42,16 +42,16 @@ There are both first-party cookies and third-party cookies. First-party cookies 
 
 This is an example of how cookie-files can look:
 
-**name:** _ga  
-**value:** GA1.2.1326744211.152121657019-9  
-**purpose:** differentiation between website visitors  
+**name:** _ga\
+**value:** GA1.2.1326744211.152121657019-9\
+**purpose:** differentiation between website visitors\
 **expiration date:** after 2 years
 
 A browser should support these minimum sizes:
 
-*   at least 4096 bytes per cookie
-*   at least 50 cookies per domain
-*   at least 3000 cookies in total
+* at least 4096 bytes per cookie
+* at least 50 cookies per domain
+* at least 3000 cookies in total
 
 #### Which types of cookies are there?
 
@@ -59,13 +59,10 @@ What exact cookies we use, depends on the used services. We will explain this in
 
 There are 4 different types of cookies:
 
-*   **Essential Cookies:** These cookies are necessary to ensure the basic function of a website. They are needed when a user for example puts a product into their shopping cart, then continues surfing on different websites and comes back later in order to proceed to the checkout. Even when the user closed their window priorly, these cookies ensure that the shopping cart does not get deleted.
-
-*   **Purposive Cookies:** These cookies collect info about the user behaviour and record if the user potentially receives any error messages. Furthermore, these cookies record the website’s loading time as well as its behaviour within different browsers.
-
-*   **Target-orientated Cookies:** These cookies care for an improved user-friendliness. Thus, information such as previously entered locations, fonts or data in forms stay saved.
-
-*   **Advertising Cookies:** These cookies are also known as targeting-Cookies. They serve the purpose of delivering individually adapted advertisements to the user. This can be very practical, but also rather annoying.
+* **Essential Cookies:** These cookies are necessary to ensure the basic function of a website. They are needed when a user for example puts a product into their shopping cart, then continues surfing on different websites and comes back later in order to proceed to the checkout. Even when the user closed their window priorly, these cookies ensure that the shopping cart does not get deleted.
+* **Purposive Cookies:** These cookies collect info about the user behaviour and record if the user potentially receives any error messages. Furthermore, these cookies record the website’s loading time as well as its behaviour within different browsers.
+* **Target-orientated Cookies:** These cookies care for an improved user-friendliness. Thus, information such as previously entered locations, fonts or data in forms stay saved.
+* **Advertising Cookies:** These cookies are also known as targeting-Cookies. They serve the purpose of delivering individually adapted advertisements to the user. This can be very practical, but also rather annoying.
 
 Upon your first visit to a website you are usually asked which of these cookie-types you want to accept. Furthermore, this decision will of course also be saved in a cookie.
 
@@ -79,19 +76,19 @@ If you want change or delete cookie-settings and would like to determine which c
 
 [Safari: Manage cookies and website data in Safari](https://support.apple.com/en-gb/guide/safari/sfri11471/mac?tid=121657019)
 
-[Firefox: Clear cookies and site data in Firefox]( https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox?tid=121657019)
+[Firefox: Clear cookies and site data in Firefox](https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox?tid=121657019)
 
-[Internet Explorer: Delete and manage cookies]( https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies?tid=121657019)
+[Internet Explorer: Delete and manage cookies](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies?tid=121657019)
 
-[Microsoft Edge: Delete cookies in Microsoft Edge]( https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies?tid=121657019)
+[Microsoft Edge: Delete cookies in Microsoft Edge](https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies?tid=121657019)
 
 If you generally do not want to allow any cookies at all, you can set up your browser in a way, to notify you whenever a potential cookie is about to be set. This gives you the opportunity to manually decide to either permit or deny the placement of every single cookie. The settings for this differ from browser to browser. Therefore, it might be best for you to search for the instructions in Google. If you are using Chrome, you could for example put the search phrase “delete cookies Chrome” or “deactivate cookies Chrome” into Google.
 
 #### How is my data protected?
 
-There is a “cookie policy” that has been in place since 2009\. It states that the storage of cookies requires the user’s consent. However, among the countries of the EU, these guidelines are often met with mixed reactions. In Austria the guidelines have been implemented in § 96 section 3 of the Telecommunications Act (TKG).
+There is a “cookie policy” that has been in place since 2009. It states that the storage of cookies requires the user’s consent. However, among the countries of the EU, these guidelines are often met with mixed reactions. In Austria the guidelines have been implemented in § 96 section 3 of the Telecommunications Act (TKG).
 
-If you want to learn more about cookies and do not mind technical documentation, we recommend [https://tools.ietf.org/html/rfc6265](https://tools.ietf.org/html/rfc6265), the Request for Comments of the Internet Engineering Task Force (IETF) called “HTTP State Management Mechanism”.
+If you want to learn more about cookies and do not mind technical documentation, we recommend <https://tools.ietf.org/html/rfc6265>, the Request for Comments of the Internet Engineering Task Force (IETF) called “HTTP State Management Mechanism”.
 
 ### Storage of Personal Data
 
@@ -105,13 +102,13 @@ If you send us personal data via email – and thus not via this website – we 
 
 You are granted the following rights in accordance with the provisions of the [GDPR](https://gdpr-info.eu/) (General Data Protection Regulation) and the Austrian [Data Protection Act (DSG)](https://www.ris.bka.gv.at/Dokumente/Erv/ERV_1999_1_165/ERV_1999_1_165.html):
 
-*   right to rectification (article 16 GDPR)
-*   right to erasure (“right to be forgotten“) (article 17 GDPR)
-*   right to restrict processing (article 18 GDPR)
-*   righ to notification – notification obligation regarding rectification or erasure of personal data or restriction of processing (article 19 GDPR)
-*   right to data portability (article 20 GDPR)
-*   Right to object (article 21 GDPR)
-*   right not to be subject to a decision based solely on automated processing – including profiling – (article 22 GDPR)
+* right to rectification (article 16 GDPR)
+* right to erasure (“right to be forgotten“) (article 17 GDPR)
+* right to restrict processing (article 18 GDPR)
+* righ to notification – notification obligation regarding rectification or erasure of personal data or restriction of processing (article 19 GDPR)
+* right to data portability (article 20 GDPR)
+* Right to object (article 21 GDPR)
+* right not to be subject to a decision based solely on automated processing – including profiling – (article 22 GDPR)
 
 If you think that the processing of your data violates the data protection law, or that your data protection rights have been infringed in any other way, you can lodge a complaint with your respective regulatory authority. For Austria this is the data protection authority, whose website you can access at [https://www.data-protection-authority.gv.at/](https://www.data-protection-authority.gv.at/?tid=121657019).
 
@@ -135,12 +132,12 @@ Google Analytics is a tracking tool with the purpose of conducting data traffic 
 
 Google processes this data and we then receive reports on your user behaviour. These reports can be one of the following:
 
-*   Target audience reports: With the help of target audience reports we can get to know our users better and can therefore better understand who is interested in our service.
-*   Advertising reports: Through advertising reports we can analyse our online advertising better and hence improve it.
-*   Acquisition reports: Acquisition reports provide us helpful information on how we can get more people enthusiastic about our service.
-*   Behaviour reports: With these reports, we can find out how you interact with our website. By the means of behaviour reports, we can understand what path you go on our website and what links you click.
-*   Conversion reports: A conversion is the process of leading you to carry out a desired action due to a marketing message. An example of this would be transforming you from a mere website visitor into a buyer or a newsletter subscriber. Hence, with the help of these reports we can see in more detail, if our marketing measures are successful with you. Our aim is to increase our conversion rate.
-*   Real time reports: With the help of these reports we can see in real time, what happens on our website. It makes us for example see, we can see how many users are reading this text right now.
+* Target audience reports: With the help of target audience reports we can get to know our users better and can therefore better understand who is interested in our service.
+* Advertising reports: Through advertising reports we can analyse our online advertising better and hence improve it.
+* Acquisition reports: Acquisition reports provide us helpful information on how we can get more people enthusiastic about our service.
+* Behaviour reports: With these reports, we can find out how you interact with our website. By the means of behaviour reports, we can understand what path you go on our website and what links you click.
+* Conversion reports: A conversion is the process of leading you to carry out a desired action due to a marketing message. An example of this would be transforming you from a mere website visitor into a buyer or a newsletter subscriber. Hence, with the help of these reports we can see in more detail, if our marketing measures are successful with you. Our aim is to increase our conversion rate.
+* Real time reports: With the help of these reports we can see in real time, what happens on our website. It makes us for example see, we can see how many users are reading this text right now.
 
 #### Why do we use Google Analytics on our website?
 
@@ -156,54 +153,54 @@ Your interactions on our website are measures by tags such as cookies and app in
 
 The following cookies are used by Google Analytics:
 
-**Name:** _ga  
-**Value:**2.1326744211.152121657019-5  
-**Purpose:** By deafault, analytics.js uses the cookie _ga, to save the user ID. It generally serves the purpose of differenciating between website visitors.  
+**Name:** _ga\
+**Value:**2.1326744211.152121657019-5\
+**Purpose:** By deafault, analytics.js uses the cookie _ga, to save the user ID. It generally serves the purpose of differenciating between website visitors.\
 **Expiration date:** After 2 years
 
-**Name:** _gid  
-**Value:**2.1687193234.152121657019-1  
-**Purpose:** This cookie also serves the purpose of differentiating between website users  
+**Name:** _gid\
+**Value:**2.1687193234.152121657019-1\
+**Purpose:** This cookie also serves the purpose of differentiating between website users\
 **Expiration date:** After 24 hours
 
-**Name:** _gat_gtag_UA_<property-id>  
-**Value:** 1  
-**Verwendungszweck:** It is used for decreasing the demand rate. If Google Analytics is provided via Google Tag Manager, this cookie gets the name _dc_gtm_ <property-id>.  
+**Name:** *gat_gtag_UA*<property-id>\
+**Value:** 1\
+**Verwendungszweck:** It is used for decreasing the demand rate. If Google Analytics is provided via Google Tag Manager, this cookie gets the name *dc_gtm* <property-id>.\
 **Expiration date:** After 1 minute
 
-**Name:** AMP_TOKEN  
-**Value:** No information  
-**Purpose:** This cookie has a token which is used to retrieve the user ID by the AMP Client ID Service. Other possible values suggest a logoff, a request or an error.  
+**Name:** AMP_TOKEN\
+**Value:** No information\
+**Purpose:** This cookie has a token which is used to retrieve the user ID by the AMP Client ID Service. Other possible values suggest a logoff, a request or an error.\
 **Expiration date:** After 30 seconds up to one year
 
-**Name:** __utma  
-**Value:** 1564498958.1564498958.1564498958.1  
-**Purpose:** With this cookie your behaviour on the website can be tracked and the site performance can be measured. The cookie is updated every time the information is sent to Google Analytics.  
+**Name:** __utma\
+**Value:** 1564498958.1564498958.1564498958.1\
+**Purpose:** With this cookie your behaviour on the website can be tracked and the site performance can be measured. The cookie is updated every time the information is sent to Google Analytics.\
 **Expiration date:** After 2 years
 
-**Name:** __utmt  
-**Value:** 1  
-**Purpose:** Just like _gat_gtag_UA_<property-id> this cookie is used for keeping the requirement rate in check.  
+**Name:** _*utmt\
+**Value:** 1\
+**Purpose:** Just like _gat_gtag_UA*<property-id> this cookie is used for keeping the requirement rate in check.\
 **Expiration date:** Afer 10 minutes
 
-**Name:** __utmb  
-**Value:** 3.10.1564498958  
-**Purpose:** This cookie is used to determine new sessions. It is updated every time new data or information gets sent to Google Analytics.  
+**Name:** __utmb\
+**Value:** 3.10.1564498958\
+**Purpose:** This cookie is used to determine new sessions. It is updated every time new data or information gets sent to Google Analytics.\
 **Expiration date:** After 30 minutes
 
-**Name:** __utmc  
-**Value:** 167421564  
-**Purpose:** This cookie is used to determine new sessions for recurring visitors. It is therefore a session cookie, and only stays saved until you close the browser again.  
+**Name:** __utmc\
+**Value:** 167421564\
+**Purpose:** This cookie is used to determine new sessions for recurring visitors. It is therefore a session cookie, and only stays saved until you close the browser again.\
 **Expiration date:** After closing the browser
 
-**Name:** __utmz  
-**Value:** m|utmccn=(referral)|utmcmd=referral|utmcct=/  
-**Purpose:** This cookie is used to identify the source of our website’s visitor number. This means, that the cookie saves information on where you came to our website from. This could be another site or an advertisement.  
+**Name:** __utmz\
+**Value:** m|utmccn=(referral)|utmcmd=referral|utmcct=/\
+**Purpose:** This cookie is used to identify the source of our website’s visitor number. This means, that the cookie saves information on where you came to our website from. This could be another site or an advertisement.\
 **Expiration date:** After 6 months
 
-**Name:** __utmv  
-**Value:** No information  
-**Purpose:** The cookie is used to store custom user data. It gets updated whenever information is sent to Google Analytics.  
+**Name:** __utmv\
+**Value:** No information\
+**Purpose:** The cookie is used to store custom user data. It gets updated whenever information is sent to Google Analytics.\
 **Expiration date:** After 2 years
 
 **Note:** This list is by no means exhaustive, since Google are repeatedly changing the use of their cookies.
@@ -230,23 +227,23 @@ Further possibly stored data includes contact data, potential reviews, playing m
 
 #### How long and where is the data saved?
 
-Google has servers across the globe. Most of them are in America and therefore your data is mainly saved on American servers. Here you can read detailed information on where Google’s data centres are located: [https://www.google.com/about/datacenters/inside/locations/?hl=en](https://www.google.com/about/datacenters/inside/locations/?hl=en)
+Google has servers across the globe. Most of them are in America and therefore your data is mainly saved on American servers. Here you can read detailed information on where Google’s data centres are located: <https://www.google.com/about/datacenters/inside/locations/?hl=en>
 
 Your data is allocated to various physical data mediums. This has the advantage of allowing to retrieve the data faster, and of protecting it better from manipulation. Every Google data centre has respective emergency programs for your data. Hence, in case of a hardware failure at Google or a server error due to natural disasters, the risk for a service interruption stays relatively low.
 
 Google Analytics has a 26 months standardised period of retaining your user data. After this time, your user data is deleted. However, we have the possibility to choose the retention period of user data ourselves. There are the following five options:
 
-*   Deletion after 14 months
-*   Deletion after 26 months
-*   Deletion after 38 months
-*   Deletion after 50 months
-*   No automatical deletion
+* Deletion after 14 months
+* Deletion after 26 months
+* Deletion after 38 months
+* Deletion after 50 months
+* No automatical deletion
 
 As soon as the chosen period is expired, the data is deleted once a month. This retention period applies to any of your data which is linked to cookies, user identification and advertisement IDs (e.g. cookies of the DoubleClick domain). Any report results are based on aggregated information and are stored independently of any user data. Aggregated information is a merge of individual data into a single and bigger unit.
 
 #### How can I delete my data or prevent data retention?
 
-Under the provisions of the European Union’s data protection law, you have the right to obtain information on your data and to update, delete or restrict it. With the help of a browser add on that can deactivate Google Analytics’ JavaScript (ga.js, analytics.js, dc.js), you can prevent Google Analytics from using your data. You can download this add on at [https://tools.google.com/dlpage/gaoptout?hl=en-GB](https://tools.google.com/dlpage/gaoptout?hl=en-GB). Please consider that this add on can only deactivate any data collection by Google Analytics.
+Under the provisions of the European Union’s data protection law, you have the right to obtain information on your data and to update, delete or restrict it. With the help of a browser add on that can deactivate Google Analytics’ JavaScript (ga.js, analytics.js, dc.js), you can prevent Google Analytics from using your data. You can download this add on at <https://tools.google.com/dlpage/gaoptout?hl=en-GB>. Please consider that this add on can only deactivate any data collection by Google Analytics.
 
 Should you generally want to deactivate, delete or manage all cookies (independently of Google Analytics), you can use one of the guides that are available for any browser:
 
@@ -254,27 +251,27 @@ Should you generally want to deactivate, delete or manage all cookies (independe
 
 [Safari: Manage cookies and website data in Safari](https://support.apple.com/en-gb/guide/safari/sfri11471/mac?tid=121657019)
 
-[Firefox: Clear cookies and site data in Firefox]( https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox?tid=121657019)
+[Firefox: Clear cookies and site data in Firefox](https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox?tid=121657019)
 
-[Internet Explorer: Delete and manage cookies]( https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies?tid=121657019)
+[Internet Explorer: Delete and manage cookies](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies?tid=121657019)
 
-[Microsoft Edge: Delete cookies in Microsoft Edge]( https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies?tid=121657019)
+[Microsoft Edge: Delete cookies in Microsoft Edge](https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies?tid=121657019)
 
-Google Analytics is an active participant of the EU-U.S. Privacy Shield Framework, which regulates correct and save transfer of personal data.  
-You can find more information on this at [https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&tid=121657019](https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI). We hope we were able to make you more familiar with the most important information on Google Analytics’ data processing. If you want to learn more about the tracking service, we recommend both of the following links: [https://marketingplatform.google.com/about/analytics/terms/gb/](https://marketingplatform.google.com/about/analytics/terms/gb/) and [https://support.google.com/analytics/answer/6004245?hl=en](https://support.google.com/analytics/answer/6004245?hl=en).
+Google Analytics is an active participant of the EU-U.S. Privacy Shield Framework, which regulates correct and save transfer of personal data.\
+You can find more information on this at [https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&tid=121657019](https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI). We hope we were able to make you more familiar with the most important information on Google Analytics’ data processing. If you want to learn more about the tracking service, we recommend both of the following links: <https://marketingplatform.google.com/about/analytics/terms/gb/> and <https://support.google.com/analytics/answer/6004245?hl=en>.
 
 ### Google Analytics IP Anonymisation
 
-We implemented Google Analytics’ IP address anonymisation to this website. Google developed this function, so this website can comply with the applicable privacy laws and the local data protection authorities’ recommendations, should they prohibit the retention of any full IP addresses.  
+We implemented Google Analytics’ IP address anonymisation to this website. Google developed this function, so this website can comply with the applicable privacy laws and the local data protection authorities’ recommendations, should they prohibit the retention of any full IP addresses.\
 The anonymisation or masking of IP addresses takes place, as soon as they reach Google Analytics’ data collection network, but before the data would be saved or processed.
 
-You can find more information on IP anonymisation at [https://support.google.com/analytics/answer/2763052?hl=en](https://support.google.com/analytics/answer/2763052?hl=en).
+You can find more information on IP anonymisation at <https://support.google.com/analytics/answer/2763052?hl=en>.
 
 ### Google Analytics Reports on demographic characteristics and interests
 
 We have turned on Google Analytics’ functions for advertising reports. These reports on demographic characteristics and interests contain details about age, gender and interests. Through them we can get a better picture of our users – without being able to allocate any data to individual persons. You can learn more about advertising functions at [auf https://support.google.com/analytics/answer/3450482?hl=en&%3Butm_id=ad](https://support.google.com/analytics/answer/3450482?hl=en&%3Butm_id=ad).
 
-You can terminate the use of your Google Account’s activities and information in “Ads Settings” at [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated) via a checkbox.
+You can terminate the use of your Google Account’s activities and information in “Ads Settings” at <https://adssettings.google.com/authenticated> via a checkbox.
 
 ### MailChimp Privacy Policy
 
@@ -308,28 +305,28 @@ Moreover, MailChimp are allowed to use this data for improving their own service
 
 The following cookies can be set by MailChimp. The list is not exhaustive and is merely an exemplary selection:
 
-**Name:** AVESTA_ENVIRONMENT  
-**Value:** Prod  
-**Purpose:** This cookie is necessary to provide the services of Mailchimp. It is always set when a user registers for a newsletter mailing list.  
+**Name:** AVESTA_ENVIRONMENT\
+**Value:** Prod\
+**Purpose:** This cookie is necessary to provide the services of Mailchimp. It is always set when a user registers for a newsletter mailing list.\
 **Expiry date:** at the end of the session
 
-**Name:** ak_bmsc  
-**Value:** F1766FA98C9BB9DE4A39F70A9E5EEAB55F6517348A7000001121657019-3  
-**Purpose:** The cookie is used to differentiate a human from a bot. That way secure reports on the use of a website can be created.  
+**Name:** ak_bmsc\
+**Value:** F1766FA98C9BB9DE4A39F70A9E5EEAB55F6517348A7000001121657019-3\
+**Purpose:** The cookie is used to differentiate a human from a bot. That way secure reports on the use of a website can be created.\
 **Expiry date:** after 2 hours
 
-**Name:** bm_sv  
-**Value:** A5A322305B4401C2451FC22FFF547486~FEsKGvX8eovCwTeFTzb8//I3ak2Au…  
-**Purpose:** This cookie comes from MasterPass Digital Wallet (a MasterCard service) and is used to offer a secure and easy virtual payment process to visitors. For this purpose, the user is anonymously identified on the website.  
+**Name:** bm_sv\
+**Value:** A5A322305B4401C2451FC22FFF547486~FEsKGvX8eovCwTeFTzb8//I3ak2Au…\
+**Purpose:** This cookie comes from MasterPass Digital Wallet (a MasterCard service) and is used to offer a secure and easy virtual payment process to visitors. For this purpose, the user is anonymously identified on the website.\
 **Expiry date:** after 2 hours
 
-**Name:** _abck  
-**Value:** 8D545C8CCA4C3A50579014C449B045121657019-9  
-**Purpose:** We could not find any further information about the purpose of this cookie.  
+**Name:** _abck\
+**Value:** 8D545C8CCA4C3A50579014C449B045121657019-9\
+**Purpose:** We could not find any further information about the purpose of this cookie.\
 **Expiry date:** after one year
 
-For better display it could be that you would sometimes open our newsletter via a specified link. This can be the case if your email program does not work or if the newsletter is not displayed properly. The newsletter will then be shown via a MailChimp website. MailChimp also uses cookies on its websites (small text files which save data on your browser).  
-Personal data can be processed by MailChimp and their partners (e.g. Google Analytics). MailChimp is responsible for the collection of this data and we have no influence on it. MailChimp’s “Cookie Statement” (at: [https://mailchimp.com/legal/cookies/](https://mailchimp.com/legal/cookies/)) tells you exactly how and why the company uses cookies.
+For better display it could be that you would sometimes open our newsletter via a specified link. This can be the case if your email program does not work or if the newsletter is not displayed properly. The newsletter will then be shown via a MailChimp website. MailChimp also uses cookies on its websites (small text files which save data on your browser).\
+Personal data can be processed by MailChimp and their partners (e.g. Google Analytics). MailChimp is responsible for the collection of this data and we have no influence on it. MailChimp’s “Cookie Statement” (at: <https://mailchimp.com/legal/cookies/>) tells you exactly how and why the company uses cookies.
 
 #### How long and where is the data saved?
 
@@ -349,14 +346,14 @@ Depending on the browser, the deactivation or deletion differs slightly. The fol
 
 [Safari: Manage cookies and website data in Safari](https://support.apple.com/en-gb/guide/safari/sfri11471/mac?tid=121657019)
 
-[Firefox: Clear cookies and site data in Firefox]( https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox?tid=121657019)
+[Firefox: Clear cookies and site data in Firefox](https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox?tid=121657019)
 
-[Internet Explorer: Delete and manage cookies]( https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies?tid=121657019)
+[Internet Explorer: Delete and manage cookies](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies?tid=121657019)
 
-[Microsoft Edge: Delete cookies in Microsoft Edge]( https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies?tid=121657019)
+[Microsoft Edge: Delete cookies in Microsoft Edge](https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies?tid=121657019)
 
 If you generally do not want to allow any cookies, you can set up your browser in a way so it would notify you whenever a potential cookie is about to be set. This lets you decide upon the placement of every single cookie.
 
-MailChimp is an active participant in the EU-U.S. Privacy Shield Framework, which regulates the correct and secure transfer of personal data. You can find more information on this at [https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG&tid=121657019](https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG). You can find more information on MailChimp’s use of cookies at [https://mailchimp.com/legal/cookies/](https://mailchimp.com/legal/cookies/), and you can learn more about data protection at MailChimp (Privacy) at [https://mailchimp.com/legal/privacy/](https://mailchimp.com/legal/privacy/).
+MailChimp is an active participant in the EU-U.S. Privacy Shield Framework, which regulates the correct and secure transfer of personal data. You can find more information on this at [https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG&tid=121657019](https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG). You can find more information on MailChimp’s use of cookies at <https://mailchimp.com/legal/cookies/>, and you can learn more about data protection at MailChimp (Privacy) at <https://mailchimp.com/legal/privacy/>.
 
 Source: Created with the Datenschutz Generator by [AdSimple® Linkbuilding](https://www.adsimple.at/linkbuilding-backlinkaufbau/ "AdSimple® Linkbuilding")
