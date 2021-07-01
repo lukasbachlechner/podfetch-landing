@@ -1,5 +1,6 @@
 // const plugin = require('tailwindcss/plugin');
 const defaultTheme = require('tailwindcss/defaultTheme');
+const aspectRatio = require('@tailwindcss/aspect-ratio');
 
 module.exports = {
   mode: process.env.NODE_ENV === 'production' ? 'jit' : undefined,
@@ -43,4 +44,5 @@ module.exports = {
       },
     },
   },
+  plugins: [aspectRatio],
 };

@@ -1,5 +1,6 @@
 export default {
   // Target: https://go.nuxtjs.dev/config-target
+
   target: 'static',
 
   // Global page headers: https://go.nuxtjs.dev/config-head
@@ -14,6 +15,11 @@ export default {
       { hid: 'description', name: 'description', content: '' },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+  },
+
+  publicRuntimeConfig: {
+    apiUrl: process.env.API_URL,
+    listenUrl: process.env.LISTEN_URL,
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css

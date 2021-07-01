@@ -50,6 +50,6 @@ export default {
 
 <style scoped>
 .features__list {
-  @apply grid lg:grid-cols-4 sm:grid-cols-2 gap-8 mt-8;
+  @apply grid lg:grid-cols-4 sm:grid-cols-2 gap-8;
 }
 </style>

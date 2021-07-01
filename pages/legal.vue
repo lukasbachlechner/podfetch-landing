@@ -1,7 +1,11 @@
 <template>
   <div class="container">
-    <nuxt-content :document="legal" />
-    <nuxt-content :document="privacy" />
+    <section>
+      <nuxt-content :document="legal" />
+    </section>
+    <section class="mt-16">
+      <nuxt-content :document="privacy" />
+    </section>
   </div>
 </template>
 

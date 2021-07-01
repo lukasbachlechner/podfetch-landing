@@ -1,16 +1,17 @@
-export default function ({ $axios }, inject) {
+export default function ({ $axios, $config }, inject) {
   class ApiClient {
     constructor() {
       this.client = $axios.create({
-        baseURL:
-          process.env.NODE_ENV === 'production'
-            ? 'https://api.podfetch.app/v1/'
-            : 'http://localhost:3333/v1/',
+        baseURL: $config.apiUrl,
       });
     }
 
     getStats() {
-      return this.client.$get('podcasts/stats');
+      return this.client.$get('stats');
+    }
+
+    getTrending(params) {
+      return this.client.$get('podcasts/trending', { params });
     }
   }
   const apiClient = new ApiClient();
