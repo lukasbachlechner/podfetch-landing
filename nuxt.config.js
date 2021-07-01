@@ -5,7 +5,8 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'podfetch-landing',
+    titleTemplate:
+      '%s – Podfetch – Listen to podcasts online and offline, for free.',
     htmlAttrs: {
       lang: 'en',
     },
@@ -37,12 +38,8 @@ export default {
     '@nuxtjs/eslint-module',
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
-    '@nuxtjs/svg-sprite',
+    '@nuxtjs/svg',
   ],
-
-  svgSprite: {
-    input: 'node_modules/bootstrap-icons/icons',
-  },
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [

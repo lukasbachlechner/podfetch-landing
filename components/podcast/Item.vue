@@ -1,14 +1,18 @@
 <template>
-  <a :href="generateListenUrl(podcast)" class="podcast__item">
+  <li>
     <div v-show="!loaded" class="image__skeleton"></div>
-    <img
-      class="podcasts__image"
-      :src="podcast.image"
-      :alt="podcast.title"
-      v-show="loaded"
-      @load="handleImageLoad"
-    />
-  </a>
+    <a :href="generateListenUrl(podcast)" class="podcast__item">
+      <img
+        class="podcasts__image"
+        :src="imageUrl"
+        :alt="podcast.title"
+        loading="lazy"
+        width="300"
+        height="300"
+        @load="handleImageLoad"
+      />
+    </a>
+  </li>
 </template>
 
 <script>
@@ -22,13 +26,21 @@ export default {
   data: () => ({
     loaded: false,
   }),
+
+  computed: {
+    imageUrl() {
+      const { apiUrl } = this.$config;
+      const encodedSrc = encodeURIComponent(this.podcast.image);
+      return `${apiUrl}images/300/${encodedSrc}`;
+    },
+  },
   methods: {
     handleImageLoad() {
       this.loaded = true;
     },
 
     generateListenUrl(podcast) {
-      const listenUrl = this.$config.listenUrl;
+      const { listenUrl } = this.$config;
       return `${listenUrl}podcast/${podcast.titleSlug}/${podcast.id}`;
     },
   },

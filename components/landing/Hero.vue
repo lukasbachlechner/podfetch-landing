@@ -16,7 +16,7 @@
         >
       </div>
 
-      <img src="~/assets/iphones.png" alt="" class="hero__mockup" />
+      <img src="~/assets/iphones.webp" alt="" class="hero__mockup" />
     </div>
   </section>
 </template>

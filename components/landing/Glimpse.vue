@@ -20,7 +20,7 @@ export default {
   async fetch() {
     try {
       this.podcasts = await this.$api.getTrending({
-        max: 24,
+        max: 12,
         lang: 'en',
         cat: 'news, true crime, daily',
       });
