@@ -12,7 +12,10 @@ export default {
     return {
       title: 'Home',
       script: [
-        { src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' },
+        {
+          src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
+          defer: true,
+        },
       ],
     };
   },
