@@ -1,7 +1,7 @@
 <template>
   <footer class="footer__wrapper">
     <div class="footer__content">
-      <nuxt-link to="/legal">Legal</nuxt-link>
+      <nuxt-link to="/legal" rel="nofollow noindex">Legal</nuxt-link>
 
       <p>&copy; {{ new Date().getFullYear() }} Podfetch</p>
     </div>

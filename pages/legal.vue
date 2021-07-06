@@ -19,6 +19,16 @@ export default {
     this.legal = await this.$content('pages', 'legal-disclosure').fetch();
     this.privacy = await this.$content('pages', 'privacy-policy').fetch();
   },
+  head: {
+    title: 'Legal',
+    meta: [
+      {
+        hid: 'robots',
+        name: 'robots',
+        content: 'noindex nofollow',
+      },
+    ],
+  },
 };
 </script>
 
