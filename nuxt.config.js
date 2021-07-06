@@ -20,6 +20,27 @@ export default {
         content:
           'Podfetch is a web-based podcast client. You can stream and download episodes on the go, as well as subscribe to your favorite shows. Sign up now to start your free listening experience!',
       },
+      {
+        hid: 'og:title',
+        property: 'og:title',
+        content: 'Podfetch – Listen to podcasts online and offline, for free.',
+      },
+      {
+        hid: 'og:site_name',
+        property: 'og:site_name',
+        content: 'Podfetch',
+      },
+      {
+        hid: 'og:image',
+        property: 'og:image',
+        content: process.env.URL + '/podfetch.png',
+      },
+      {
+        hid: 'og:description',
+        property: 'og:description',
+        content:
+          'Podfetch is a web-based podcast client. You can stream and download episodes on the go, as well as subscribe to your favorite shows. Sign up now to start your free listening experience!',
+      },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
