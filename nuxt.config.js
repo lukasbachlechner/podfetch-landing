@@ -5,6 +5,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
+    title: 'Home',
     titleTemplate:
       '%s – Podfetch – Listen to podcasts online and offline, for free.',
     htmlAttrs: {
@@ -15,7 +16,16 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' },
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    link: [
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'icon', type: 'image/png', href: '/favicon-16x16.png' },
+      { rel: 'icon', type: 'image/png', href: '/favicon-32x32.png' },
+      {
+        rel: 'apple-touch-icon',
+        type: 'image/png',
+        href: '/apple-touch-icon.png',
+      },
+    ],
   },
 
   publicRuntimeConfig: {

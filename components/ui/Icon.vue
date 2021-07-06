@@ -8,6 +8,7 @@ export default {
     name: {
       type: String,
       required: true,
+      default: 'earbuds',
     },
     size: {
       type: String,
@@ -17,9 +18,7 @@ export default {
   },
   computed: {
     iconLink() {
-      let icon = require(`/node_modules/bootstrap-icons/icons/${this.name}.svg?raw`);
-      icon = icon.replace(/(width|height)="([\d]{2})"/g, `$1="${this.size}"`);
-      return icon;
+      return require(`~/assets/icons/${this.name}.svg?raw`);
     },
   },
 };
