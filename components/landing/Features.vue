@@ -41,7 +41,7 @@ export default {
         title: 'Ad-free',
         icon: 'emoji-heart-eyes',
         content:
-          "We believe in distraction-free listening. We won't run any ads in or between episodes. Or anywhere on our page.",
+          "We believe in distraction-free listening. We won't run any ads during episodes. You got our word.",
       },
     ],
   }),

@@ -8,7 +8,7 @@
         </h1>
       </nuxt-link>
 
-      <ui-button tag="a" :href="`${$config.listenUrl}login`">Login</ui-button>
+      <a :href="`${$config.listenUrl}login`" class="hover:underline">Login</a>
     </div>
   </header>
 </template>
